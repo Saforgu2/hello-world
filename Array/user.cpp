@@ -13,7 +13,7 @@ int main(){
 
     cars[0] = "BMW";
 
-    cout << cars[0] << '\n';
+    cout << cars[1] << '\n';
 
     return 0;
 }
